@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>المدونه on ريترو بلوغز</title>
-    <link>//localhost:1313/posts/</link>
+    <link>retroblogz.netlify.app/posts/</link>
     <description>Recent content in المدونه on ريترو بلوغز</description>
     <generator>Hugo</generator>
     <language>ar</language>
     <lastBuildDate>Mon, 04 Nov 2024 05:15:09 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="retroblogz.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>مواجهة الحياة كشخصين مختلفين للشعور بالانتماء الي مجتمع زائف</title>
-      <link>//localhost:1313/posts/2in1/</link>
+      <link>retroblogz.netlify.app/posts/2in1/</link>
       <pubDate>Mon, 04 Nov 2024 05:15:09 +0200</pubDate>
-      <guid>//localhost:1313/posts/2in1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/2in1.jpg&#34; alt=&#34;whoami?&#34;&gt;&#xA;كتب في 2021 و تم اعادة التعديل و الصياغه في 2024-06-16&lt;/p&gt;&#xA;&lt;p&gt;منذ طفولتي، لطالما شعرت بغربة عميقة تجاه من حولي. لم أجد شعورًا حقيقيًا بالانتماء إلى مجموعة، أو عائلة، أو مجتمع؛ بل&#xA;كنت دائمًا أشعر بأنني دخيل. هذا الإحساس جعلني أعيش حالة من العزلة حتى بين الناس، وكأنني أبحر في محيط من البشر دون أن أجد جزيرة أنتمي إليها. ومع مرور الوقت، تعلمت الأساليب التي تمكنني من التفاعل اجتماعيًا بطريقة تُرضي الآخرين وتجنبني أي نوع من أنواع الخلاف، فكنت أتعامل دون إظهار شخصيتي الحقيقية، أضع جانبًا طابعي الذاتي لأتجنب الصدام.&lt;/p&gt;</description>
+      <guid>retroblogz.netlify.app/posts/2in1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;retroblogz.netlify.app/images/2in1.jpg&#34; alt=&#34;whoami?&#34;&gt;&#xA;كتب في 2021 و تم اعادة التعديل و الصياغه في 2024-06-16&lt;/p&gt;&#xA;&lt;p&gt;منذ طفولتي، لطالما شعرت بغربة عميقة تجاه من حولي. لم أجد شعورًا حقيقيًا بالانتماء إلى مجموعة، أو عائلة، أو مجتمع؛ بل&#xA;كنت دائمًا أشعر بأنني دخيل. هذا الإحساس جعلني أعيش حالة من العزلة حتى بين الناس، وكأنني أبحر في محيط من البشر دون أن أجد جزيرة أنتمي إليها. ومع مرور الوقت، تعلمت الأساليب التي تمكنني من التفاعل اجتماعيًا بطريقة تُرضي الآخرين وتجنبني أي نوع من أنواع الخلاف، فكنت أتعامل دون إظهار شخصيتي الحقيقية، أضع جانبًا طابعي الذاتي لأتجنب الصدام.&lt;/p&gt;</description>
     </item>
     <item>
       <title>من أنا؟ وما الهدف من هذه المدونة؟</title>
-      <link>//localhost:1313/posts/whoami/</link>
+      <link>retroblogz.netlify.app/posts/whoami/</link>
       <pubDate>Mon, 04 Nov 2024 04:19:10 +0200</pubDate>
-      <guid>//localhost:1313/posts/whoami/</guid>
+      <guid>retroblogz.netlify.app/posts/whoami/</guid>
       <description>&lt;p&gt;لا يهم اسمي أو عمري أو شكلي أو حالتي الاجتماعية؛ فكل هذه المعايير ليست سوى رموز صنعناها لتسهيل الحكم على الآخرين وتكوين تصورات مسبقة عنهم. صنعت هذه المدونة للهرب من قيود مواقع التواصل الاجتماعي ومن واقع يصعب فيه مشاركة أفكاري والوصول إلى فضاء أوسع للتعبير، بعيدًا عن التوجهات السريعة والسطحية التي تحكم الإنترنت اليوم.&lt;/p&gt;&#xA;&lt;p&gt;في الماضي، كان للأفراد مواقعهم الخاصة على الإنترنت، حيث يختارون تصميمها، محتواها، وهدفها؛ كان هناك شعور حقيقي بأن ما يشاركونه ذو قيمة. أما اليوم، فقد أصبحت مواقع التواصل الاجتماعي أشبه بمقبرة للأفكار، إذ تشجع على استهلاك سريع للمحتوى وتفقد الناس فرصة التعبير بعمق أو بناء مساحة افتراضية تعبر عن ذواتهم. ما زلت أستخدم هذه المواقع فقط للبقاء على اتصال مع من حولي، لكنني أسعى إلى الانفصال عنها يومًا ما، لأتحرر من التعلق المرضي الذي خلقته لنا  التكنولوجيا.&lt;/p&gt;</description>
     </item>
     <item>
       <title>الاستهلاكية وفلسفة التبسيط: بين الاستنزاف الدائم والبحث عن المعنى</title>
-      <link>//localhost:1313/posts/consume/</link>
+      <link>retroblogz.netlify.app/posts/consume/</link>
       <pubDate>Fri, 01 Nov 2024 21:00:21 +0200</pubDate>
-      <guid>//localhost:1313/posts/consume/</guid>
+      <guid>retroblogz.netlify.app/posts/consume/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FpCUdYAaarKqY2AAUtV6xXYO8UGY.jpg&amp;amp;f=1&amp;amp;nofb=1&amp;amp;ipt=edf37e10eccf4d5c4850e8327c41ea14fbef86e7c76b8e06cddc202b503d1ef7&amp;amp;ipo=images&#34; alt=&#34;whoami?&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;الاستهلاكية وفلسفة التبسيط: بين الاستنزاف الدائم والبحث عن المعنى&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;نحن مستهلكون، نحن نتاج هوس بنمط الحياة الحديث. الجريمة، الفقر، القتل&amp;hellip; هذه الأمور لا تهمني. ما يشغلني هو مجلات المشاهير، التلفاز الذي يقدم 500 قناة، واسم شخص غريب على ملابسي الداخلية  .&amp;rdquo; –  &lt;em&gt;تايلر ديردن&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;الاستهلاكية-ليه-كل-هذا-الاستهلاك&#34;&gt;الاستهلاكية&amp;hellip; ليه كل هذا الاستهلاك؟&lt;/h3&gt;&#xA;&lt;p&gt;ببساطة، الاستهلاكية هي فكرة بتقول إن زيادة استهلاك السلع والخدمات هو المفتاح للسعادة والرفاهية، وإنك كلما امتلكت أكتر، حسيت بالرضا أكتر. والحقيقة، مع الوقت، بقت فكرة الاستهلاك مغروسة في عقولنا، توجه تصرفاتنا وتخلينا دايماً في سباق لشراء الأشياء حتى لو مش محتاجينها فعلاً. وبنلاقي نفسنا محاصرين برغبة مستمرة للاستهلاك، رغبة شبه مستحيل تشبع، وده السبب إننا كتير بنحس بالتوتر، الاكتئاب، ونوع من الضياع النفسي.&lt;/p&gt;</description>
     </item>
     <item>
       <title>عن انجاب الاطفال و لماذا تبنيت الفلسفة الاإنجابية</title>
-      <link>//localhost:1313/posts/antinatilsim/</link>
+      <link>retroblogz.netlify.app/posts/antinatilsim/</link>
       <pubDate>Fri, 03 Jun 2022 23:40:39 +0200</pubDate>
-      <guid>//localhost:1313/posts/antinatilsim/</guid>
+      <guid>retroblogz.netlify.app/posts/antinatilsim/</guid>
       <description>&lt;p&gt;المعاناة جزء لا يتجزأ من الوجود، ولا يمكن الهروب منها أو التخلي عنها مهما حاولنا ومهما اختلفت ظروف حياتنا. إن اختياري بعدم إنجاب أطفال ليس مجرد قرار مادي بحت؛ بل هو تفكير عميق في طبيعة الحياة ذاتها التي تقوم على المعاناة منذ لحظة الميلاد وحتى الممات. قد نقضي حياتنا في محاولة مستمرة للهرب من هذه المعاناة أو التخفيف منها، لكن يبقى السؤال: لماذا ننقل هذه المعاناة إلى أجيال جديدة؟&lt;/p&gt;&#xA;&lt;p&gt;لم يختر أي منا أن يولد، ولم نختر ظروف ولادتنا أو أسرنا أو بلادنا، ولكننا نوجد في هذه الحياة بإرادة آبائنا الذين قرروا يومًا ما أن يكتبوا علينا هذا المصير. وعندما نتأمل في هذا القرار، هل نرغب فعلًا في فرض هذا المصير ذاته على أبنائنا؟ هل نحن قادرون على ضمان حياة خالية من الألم والظلم لأطفالنا؟ بل، هل سيكونون راغبين في خوض تجربة كهذه لو كان لهم حق الاختيار؟&lt;/p&gt;</description>
     </item>
   </channel>
