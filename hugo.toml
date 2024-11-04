@@ -29,6 +29,3 @@ weight = 10
 [services.disqus]
 shortname = 'foobar'
 
-[module]
-  [[imports]]
-    path = "github.com/mohamedelhefni/zahi"

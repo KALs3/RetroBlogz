@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophy on ريترو بلوغز</title>
-    <link>retroblogz.netlify.app/tags/philosophy/</link>
+    <link>//localhost:1313/tags/philosophy/</link>
     <description>Recent content in Philosophy on ريترو بلوغز</description>
     <generator>Hugo</generator>
     <language>ar</language>
     <lastBuildDate>Fri, 03 Jun 2022 23:40:39 +0200</lastBuildDate>
-    <atom:link href="retroblogz.netlify.app/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>عن انجاب الاطفال و لماذا تبنيت الفلسفة الاإنجابية</title>
-      <link>retroblogz.netlify.app/posts/antinatilsim/</link>
+      <link>//localhost:1313/posts/antinatilsim/</link>
       <pubDate>Fri, 03 Jun 2022 23:40:39 +0200</pubDate>
-      <guid>retroblogz.netlify.app/posts/antinatilsim/</guid>
+      <guid>//localhost:1313/posts/antinatilsim/</guid>
       <description>&lt;p&gt;المعاناة جزء لا يتجزأ من الوجود، ولا يمكن الهروب منها أو التخلي عنها مهما حاولنا ومهما اختلفت ظروف حياتنا. إن اختياري بعدم إنجاب أطفال ليس مجرد قرار مادي بحت؛ بل هو تفكير عميق في طبيعة الحياة ذاتها التي تقوم على المعاناة منذ لحظة الميلاد وحتى الممات. قد نقضي حياتنا في محاولة مستمرة للهرب من هذه المعاناة أو التخفيف منها، لكن يبقى السؤال: لماذا ننقل هذه المعاناة إلى أجيال جديدة؟&lt;/p&gt;&#xA;&lt;p&gt;لم يختر أي منا أن يولد، ولم نختر ظروف ولادتنا أو أسرنا أو بلادنا، ولكننا نوجد في هذه الحياة بإرادة آبائنا الذين قرروا يومًا ما أن يكتبوا علينا هذا المصير. وعندما نتأمل في هذا القرار، هل نرغب فعلًا في فرض هذا المصير ذاته على أبنائنا؟ هل نحن قادرون على ضمان حياة خالية من الألم والظلم لأطفالنا؟ بل، هل سيكونون راغبين في خوض تجربة كهذه لو كان لهم حق الاختيار؟&lt;/p&gt;</description>
     </item>
   </channel>

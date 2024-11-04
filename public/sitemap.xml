@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>retroblogz.netlify.app/tags/life/</loc>
+    <loc>//localhost:1313/tags/life/</loc>
     <lastmod>2024-11-04T05:15:09+02:00</lastmod>
   </url><url>
-    <loc>retroblogz.netlify.app/tags/personal/</loc>
+    <loc>//localhost:1313/tags/personal/</loc>
     <lastmod>2024-11-04T05:15:09+02:00</lastmod>
   </url><url>
-    <loc>retroblogz.netlify.app/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-11-04T05:15:09+02:00</lastmod>
   </url><url>
-    <loc>retroblogz.netlify.app/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-11-04T05:15:09+02:00</lastmod>
   </url><url>
-    <loc>retroblogz.netlify.app/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-11-04T05:15:09+02:00</lastmod>
   </url><url>
-    <loc>retroblogz.netlify.app/posts/2in1/</loc>
+    <loc>//localhost:1313/posts/2in1/</loc>
     <lastmod>2024-11-04T05:15:09+02:00</lastmod>
   </url><url>
-    <loc>retroblogz.netlify.app/posts/whoami/</loc>
+    <loc>//localhost:1313/posts/whoami/</loc>
     <lastmod>2024-11-04T04:19:10+02:00</lastmod>
   </url><url>
-    <loc>retroblogz.netlify.app/tags/materialism/</loc>
+    <loc>//localhost:1313/tags/materialism/</loc>
     <lastmod>2024-11-01T21:00:21+02:00</lastmod>
   </url><url>
-    <loc>retroblogz.netlify.app/tags/minimalism/</loc>
+    <loc>//localhost:1313/tags/minimalism/</loc>
     <lastmod>2024-11-01T21:00:21+02:00</lastmod>
   </url><url>
-    <loc>retroblogz.netlify.app/tags/philosphy/</loc>
+    <loc>//localhost:1313/tags/philosphy/</loc>
     <lastmod>2024-11-01T21:00:21+02:00</lastmod>
   </url><url>
-    <loc>retroblogz.netlify.app/tags/self-awareness/</loc>
+    <loc>//localhost:1313/tags/self-awareness/</loc>
     <lastmod>2024-11-01T21:00:21+02:00</lastmod>
   </url><url>
-    <loc>retroblogz.netlify.app/posts/consume/</loc>
+    <loc>//localhost:1313/posts/consume/</loc>
     <lastmod>2024-11-01T21:00:21+02:00</lastmod>
   </url><url>
-    <loc>retroblogz.netlify.app/tags/philosophy/</loc>
+    <loc>//localhost:1313/tags/philosophy/</loc>
     <lastmod>2022-06-03T23:40:39+02:00</lastmod>
   </url><url>
-    <loc>retroblogz.netlify.app/posts/antinatilsim/</loc>
+    <loc>//localhost:1313/posts/antinatilsim/</loc>
     <lastmod>2022-06-03T23:40:39+02:00</lastmod>
   </url>
 </urlset>
