@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ريترو بلوغز</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on ريترو بلوغز</description>
+    <generator>Hugo</generator>
+    <language>ar</language>
+    <lastBuildDate>Mon, 04 Nov 2024 05:15:09 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life</title>
+      <link>//localhost:1313/tags/life/</link>
+      <pubDate>Mon, 04 Nov 2024 05:15:09 +0200</pubDate>
+      <guid>//localhost:1313/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>//localhost:1313/tags/personal/</link>
+      <pubDate>Mon, 04 Nov 2024 05:15:09 +0200</pubDate>
+      <guid>//localhost:1313/tags/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Materialism</title>
+      <link>//localhost:1313/tags/materialism/</link>
+      <pubDate>Fri, 01 Nov 2024 21:00:21 +0200</pubDate>
+      <guid>//localhost:1313/tags/materialism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Minimalism</title>
+      <link>//localhost:1313/tags/minimalism/</link>
+      <pubDate>Fri, 01 Nov 2024 21:00:21 +0200</pubDate>
+      <guid>//localhost:1313/tags/minimalism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosphy</title>
+      <link>//localhost:1313/tags/philosphy/</link>
+      <pubDate>Fri, 01 Nov 2024 21:00:21 +0200</pubDate>
+      <guid>//localhost:1313/tags/philosphy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Awareness</title>
+      <link>//localhost:1313/tags/self-awareness/</link>
+      <pubDate>Fri, 01 Nov 2024 21:00:21 +0200</pubDate>
+      <guid>//localhost:1313/tags/self-awareness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>//localhost:1313/tags/philosophy/</link>
+      <pubDate>Fri, 03 Jun 2022 23:40:39 +0200</pubDate>
+      <guid>//localhost:1313/tags/philosophy/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

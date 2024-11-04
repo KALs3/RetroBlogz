@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featuers on ريترو بلوغز</title>
+    <link>http://localhost:1313/tags/featuers/</link>
+    <description>Recent content in Featuers on ريترو بلوغز</description>
+    <generator>Hugo</generator>
+    <language>ar</language>
+    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/featuers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>مميزات قالب زاهي</title>
+      <link>http://localhost:1313/posts/zahi-features/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/zahi-features/</guid>
+      <description>&lt;h3 id=&#34;-أداء-متميز&#34;&gt;🚀 أداء متميز&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/perf.png&#34; alt=&#34;zahi perf&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;يتميز القالب بأداء عالٍ وسرعة تحميل ممتازة، مما يضمن تجربة سلسة ومريحة للمستخدمين.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-جدول-المحتويات&#34;&gt;💡 جدول المحتويات&lt;/h3&gt;&#xA;&lt;p&gt;يوفر جدول محتويات منظم لتسهيل الوصول إلى المحتوى بشكل سريع ومنظم.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-المقالات-المثبتة&#34;&gt;📌 المقالات المثبتة&lt;/h3&gt;&#xA;&lt;p&gt;يسمح بتثبيت المقالات الهامة في الصفحة الرئيسية أو في أقسام معينة لزيادة رؤيتها من قبل الزوار.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-الوسوم&#34;&gt;🔖 الوسوم&lt;/h3&gt;&#xA;&lt;p&gt;يسمح بتصنيف المحتوى بسهولة من خلال الوسوم، مما يسهل عملية البحث والوصول للمحتوى المرغوب.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-دعم-disqus-خانة-التعليقات&#34;&gt;💬 دعم Disqus (خانة التعليقات)&lt;/h3&gt;&#xA;&lt;p&gt;يتيح التفاعل مع القراء من خلال خانة التعليقات Disqus، مما يزيد من تفاعل المستخدمين مع المحتوى.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

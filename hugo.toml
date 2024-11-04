@@ -1,0 +1,34 @@
+baseURL = "retroblogz.netlify.app"
+title = "ريترو بلوغز"
+theme = "zahi"
+languageCode = "ar"
+defaultContentLanguage = "ar"
+
+[taxonomies]
+tag = "tags"
+
+[menu]
+[[menu.main]]
+identifier = "الرئيسية"
+name = "الرئيسية"
+url = "/"
+weight = 10
+
+
+[[menu.main]]
+identifier = "المقالات"
+name = "المدونه"
+url = "/posts"
+weight = 10
+
+
+[params]
+
+
+[services]
+[services.disqus]
+shortname = 'foobar'
+
+[module]
+  [[imports]]
+    path = "github.com/mohamedelhefni/zahi"
