@@ -6,8 +6,15 @@
     <description>Recent content in المدونه on ريترو بلوغز</description>
     <generator>Hugo</generator>
     <language>ar</language>
-    <lastBuildDate>Tue, 05 Nov 2024 01:43:14 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 01:16:23 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>الادوات التي استخدمها للانتاجية</title>
+      <link>//localhost:1313/posts/toolsiuse/</link>
+      <pubDate>Sat, 09 Nov 2024 01:16:23 +0200</pubDate>
+      <guid>//localhost:1313/posts/toolsiuse/</guid>
+      <description>&lt;h3 id=&#34;نظام-التشغيل&#34;&gt;نظام التشغيل&lt;/h3&gt;&#xA;&lt;p&gt;في الفترة الأخيرة كنت ببدل بين استخدام ويندوز ولينكس، فقررت أجرب الـ Dual-Booting. لكن الموضوع مكنش عملي تمامًا، خاصة لما أحتاج أفتح برامج موجودة على ويندوز فقط؛ فكان لازم أعمل إعادة تشغيل للجهاز عشان أرجع لويندوز، وده كان بياخد وقت ومزعج. فوق ده، كانت الملفات أحيانًا تتداخل بين النظامين، وده زود من صعوبة التنظيم.&lt;/p&gt;&#xA;&lt;p&gt;كان هدفي إنّي أعيش تجربة لينكس الكاملة، خصوصًا مع الترمنال، وكنت بستخدم Tiling Window Manager وبرامج تانية لتخصيص الواجهة زي ما بعوز. لكن بالنظر للراحة والاستقرار، قررت أرجع لويندوز واستخدم WSL عشان أدمج النظامين بشكل سلس يناسبني، وأقدر أشتغل من غير الحاجة لإعادة تشغيل الجهاز دايمًا.&#xA;&lt;img src=&#34;//localhost:1313/images/wsl.png&#34; alt=&#34;wsl&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>هل يجب أن أقتل نفسي أم  فنجانًا من القهوة؟ </title>
       <link>//localhost:1313/posts/shouldikillmyselforhaveacupofcofee/</link>
