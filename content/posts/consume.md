@@ -1,7 +1,7 @@
 ---
 title: "الاستهلاكية وفلسفة التبسيط: بين الاستنزاف الدائم والبحث عن المعنى"
 date: 2024-11-01T21:00:21+02:00
-tags: ["Self-awareness", "Materialism","Minimalism","philosphy"]
+tags: [ "Materialism","Minimalism","philosphy"]
 pinned: true
 ---
 ![whoami?](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FpCUdYAaarKqY2AAUtV6xXYO8UGY.jpg&f=1&nofb=1&ipt=edf37e10eccf4d5c4850e8327c41ea14fbef86e7c76b8e06cddc202b503d1ef7&ipo=images)
