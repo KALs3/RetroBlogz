@@ -51,24 +51,24 @@
       <description></description>
     </item>
     <item>
+      <title>Philosophy</title>
+      <link>//localhost:1313/tags/philosophy/</link>
+      <pubDate>Fri, 03 Jun 2022 23:40:39 +0200</pubDate>
+      <guid>//localhost:1313/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Materialism</title>
       <link>//localhost:1313/tags/materialism/</link>
-      <pubDate>Fri, 01 Nov 2024 21:00:21 +0200</pubDate>
+      <pubDate>Mon, 01 Nov 2021 21:00:21 +0200</pubDate>
       <guid>//localhost:1313/tags/materialism/</guid>
       <description></description>
     </item>
     <item>
       <title>Minimalism</title>
       <link>//localhost:1313/tags/minimalism/</link>
-      <pubDate>Fri, 01 Nov 2024 21:00:21 +0200</pubDate>
+      <pubDate>Mon, 01 Nov 2021 21:00:21 +0200</pubDate>
       <guid>//localhost:1313/tags/minimalism/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Philosophy</title>
-      <link>//localhost:1313/tags/philosophy/</link>
-      <pubDate>Fri, 03 Jun 2022 23:40:39 +0200</pubDate>
-      <guid>//localhost:1313/tags/philosophy/</guid>
       <description></description>
     </item>
   </channel>
