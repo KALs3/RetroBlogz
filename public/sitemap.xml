@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/tags/life/</loc>
+    <lastmod>2024-11-09T21:53:09+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-11-09T21:53:09+02:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/education/</loc>
     <lastmod>2024-11-09T21:53:09+02:00</lastmod>
   </url><url>
@@ -14,17 +20,11 @@
     <loc>//localhost:1313/tags/productivity/</loc>
     <lastmod>2024-11-09T01:16:23+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2024-11-09T01:16:23+02:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/tech/</loc>
     <lastmod>2024-11-09T01:16:23+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/toolsiuse/</loc>
     <lastmod>2024-11-09T01:16:23+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/life/</loc>
-    <lastmod>2024-11-05T01:43:14+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/philosphy/</loc>
     <lastmod>2024-11-05T01:43:14+02:00</lastmod>
