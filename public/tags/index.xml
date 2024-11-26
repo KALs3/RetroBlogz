@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on انسايد ذا مايند اوف سايكوتك مان  </title>
+    <title>Tags on     NeoChaos   </title>
     <link>//localhost:1313/tags/</link>
-    <description>Recent content in Tags on انسايد ذا مايند اوف سايكوتك مان  </description>
+    <description>Recent content in Tags on     NeoChaos   </description>
     <generator>Hugo</generator>
     <language>ar</language>
     <lastBuildDate>Mon, 25 Nov 2024 01:16:23 +0200</lastBuildDate>
@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Unfinished</title>
+      <link>//localhost:1313/tags/unfinished/</link>
+      <pubDate>Mon, 25 Nov 2024 01:16:23 +0200</pubDate>
+      <guid>//localhost:1313/tags/unfinished/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Life</title>
       <link>//localhost:1313/tags/life/</link>
       <pubDate>Sat, 09 Nov 2024 21:53:09 +0200</pubDate>
@@ -23,31 +30,17 @@
       <description></description>
     </item>
     <item>
-      <title>Personal</title>
-      <link>//localhost:1313/tags/personal/</link>
-      <pubDate>Sat, 09 Nov 2024 01:16:23 +0200</pubDate>
-      <guid>//localhost:1313/tags/personal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Productivity</title>
-      <link>//localhost:1313/tags/productivity/</link>
-      <pubDate>Sat, 09 Nov 2024 01:16:23 +0200</pubDate>
-      <guid>//localhost:1313/tags/productivity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech</title>
-      <link>//localhost:1313/tags/tech/</link>
-      <pubDate>Sat, 09 Nov 2024 01:16:23 +0200</pubDate>
-      <guid>//localhost:1313/tags/tech/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Suicide</title>
       <link>//localhost:1313/tags/suicide/</link>
       <pubDate>Tue, 05 Nov 2024 01:43:14 +0200</pubDate>
       <guid>//localhost:1313/tags/suicide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>//localhost:1313/tags/personal/</link>
+      <pubDate>Mon, 04 Nov 2024 04:19:10 +0200</pubDate>
+      <guid>//localhost:1313/tags/personal/</guid>
       <description></description>
     </item>
     <item>

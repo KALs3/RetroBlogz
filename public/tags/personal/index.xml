@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal on انسايد ذا مايند اوف سايكوتك مان  </title>
+    <title>Personal on     NeoChaos   </title>
     <link>//localhost:1313/tags/personal/</link>
-    <description>Recent content in Personal on انسايد ذا مايند اوف سايكوتك مان  </description>
+    <description>Recent content in Personal on     NeoChaos   </description>
     <generator>Hugo</generator>
     <language>ar</language>
-    <lastBuildDate>Sat, 09 Nov 2024 01:16:23 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 04:19:10 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>الادوات التي استخدمها للانتاجية</title>
-      <link>//localhost:1313/posts/toolsiuse/</link>
-      <pubDate>Sat, 09 Nov 2024 01:16:23 +0200</pubDate>
-      <guid>//localhost:1313/posts/toolsiuse/</guid>
-      <description>&lt;h3 id=&#34;نظام-التشغيل&#34;&gt;نظام التشغيل&lt;/h3&gt;&#xA;&lt;p&gt;في الفترة الأخيرة كنت ببدل بين استخدام ويندوز ولينكس، و كان عن طريق الـ Dual-Booting. لكن الموضوع مكنش عملي تمامًا، خاصة لما أحتاج أفتح برامج موجودة على ويندوز فقط؛ فكان لازم أعمل إعادة تشغيل للجهاز عشان أرجع لويندوز، وده كان بياخد وقت ومزعج. فوق ده كان في دايما احساس بالتشتت موجود في التنقل بين النظامين في جهاز واحد ، وده زود من صعوبة التنظيم.&lt;/p&gt;&#xA;&lt;p&gt;كان هدفي إنّي أعيش تجربة لينكس الكاملة، وكنت بستخدم Tiling Window Manager وبرامج تانية لتخصيص الواجهة زي ما بعوز. لكن بالنظر للراحة والاستقرار، قررت أرجع لويندوز واستخدم WSL عشان أدمج النظامين بشكل سلس يناسبني.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>من أنا؟ وما الهدف من هذه المدونة؟</title>
       <link>//localhost:1313/posts/whoami/</link>
