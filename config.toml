@@ -1,4 +1,4 @@
-baseURL = "https://retroblogz.netlify.app/"  # Ensure you include the protocol
+baseURL = "https://neochaos.netlify.app/"  # Ensure you include the protocol
 title = "NeoChaos "
 theme = "zahi"
 languageCode = "ar"
