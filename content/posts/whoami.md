@@ -2,7 +2,7 @@
 title: "من أنا؟ وما الهدف من هذه المدونة؟"
 date: 2024-11-04T04:19:10+02:00
 tags: ["", "personal",""]
-pinned: true
+pinned: false
 ---
 ![](https://i.pinimg.com/564x/be/5c/a4/be5ca43d8dc194948ad2a9cd15614ad2.jpg)
 

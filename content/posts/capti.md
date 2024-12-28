@@ -2,7 +2,7 @@
 title: "  في مواجهة المجتمع الحديث   "
 date: 2024-11-25T01:16:23+02:00
 tags: ["philosphy", "unfinished",""]
-
+pinned: true
 ---
 
 ![whoami?](https://i.pinimg.com/736x/a8/74/47/a874478b0ea6090b5bea4dbda97eb215.jpg)
