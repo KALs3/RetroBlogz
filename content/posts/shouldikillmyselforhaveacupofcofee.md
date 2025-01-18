@@ -2,7 +2,6 @@
 title: "هل يجب أن أقتل نفسي أم أحتسي  فنجانًا من القهوة؟ "
 date: 2024-11-05T01:43:14+02:00
 tags: ["life", "philosphy","Suicide"]
-pinned: true
 ---
 ![hmmm?](/images/cofeez-.png)
 
