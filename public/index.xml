@@ -6,8 +6,15 @@
     <description>Recent content in  نيو-كايوس (NeoChaos ) on     NeoChaos   </description>
     <generator>Hugo</generator>
     <language>ar</language>
-    <lastBuildDate>Mon, 25 Nov 2024 01:16:23 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 14:24:08 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desktop</title>
+      <link>//localhost:1313/posts/desktop/</link>
+      <pubDate>Tue, 21 Jan 2025 14:24:08 +0200</pubDate>
+      <guid>//localhost:1313/posts/desktop/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;2 Years Ago: My Setup&lt;/strong&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/linux.jpg&#34; alt=&#34;linux?&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Two years ago, I was running Fedora Linux with the i3 tiling window manager, fully diving into the open-source ecosystem. I remember at the time I had just started watching Linux YouTubers like Luke Smith, Chris Titus, and many others who got me hooked on trying and learning Linux. I also saw it as an opportunity to build foundational skills for working with different systems, terminals, and tools—especially since it was my first year at university. It felt like a great way to get started.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>  في مواجهة المجتمع الحديث   </title>
       <link>//localhost:1313/posts/capti/</link>
