@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 21 Jan 2025 14:24:08 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Desktop</title>
+      <title>My desktop environment</title>
       <link>//localhost:1313/posts/desktop/</link>
       <pubDate>Tue, 21 Jan 2025 14:24:08 +0200</pubDate>
       <guid>//localhost:1313/posts/desktop/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;2 Years Ago: My Setup&lt;/strong&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/linux.jpg&#34; alt=&#34;linux?&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Two years ago, I was running Fedora Linux with the i3 tiling window manager, fully diving into the open-source ecosystem. I remember at the time I had just started watching Linux YouTubers like Luke Smith, Chris Titus, and many others who got me hooked on trying and learning Linux. I also saw it as an opportunity to build foundational skills for working with different systems, terminals, and tools—especially since it was my first year at university. It felt like a great way to get started.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;2 Years Ago: My Setup&lt;/strong&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/linux.jpg&#34; alt=&#34;linux?&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Two years ago, I was running Fedora Linux with the i3 tiling window manager, fully diving into the open-source ecosystem. I remember at the time I had just started watching Linux YouTubers like &lt;a href=&#34;https://www.youtube.com/@LukeSmithxyz&#34;&gt;Luke smith&lt;/a&gt;&#xA;, &lt;a href=&#34;https://www.youtube.com/@ChrisTitusTech&#34;&gt;Chris Titus&lt;/a&gt;, and many others who got me hooked on trying and learning Linux. I also saw it as an opportunity to build foundational skills for working with different systems, terminals, and tools—especially since it was my first year at university. It felt like a great way to get started.&lt;/p&gt;</description>
     </item>
     <item>
       <title>  في مواجهة المجتمع الحديث   </title>

@@ -5,7 +5,8 @@ date: 2025-01-21T14:24:08+02:00
 **2 Years Ago: My Setup**  
 ![linux?](/images/linux.jpg)
 
-Two years ago, I was running Fedora Linux with the i3 tiling window manager, fully diving into the open-source ecosystem. I remember at the time I had just started watching Linux YouTubers like Luke Smith, Chris Titus, and many others who got me hooked on trying and learning Linux. I also saw it as an opportunity to build foundational skills for working with different systems, terminals, and tools—especially since it was my first year at university. It felt like a great way to get started.
+Two years ago, I was running Fedora Linux with the i3 tiling window manager, fully diving into the open-source ecosystem. I remember at the time I had just started watching Linux YouTubers like [Luke smith](https://www.youtube.com/@LukeSmithxyz)
+, [Chris Titus](https://www.youtube.com/@ChrisTitusTech), and many others who got me hooked on trying and learning Linux. I also saw it as an opportunity to build foundational skills for working with different systems, terminals, and tools—especially since it was my first year at university. It felt like a great way to get started.
 
 I used to binge-watch videos comparing Linux distros, but honestly, the specific distro doesn’t matter much. Performance-wise, Linux is very resource-friendly, and you can use a tiling window manager instead of a full desktop environment. I liked the minimalist approach of doing everything inside multiple terminal windows. I preferred this model because everything was keyboard-centric—I didn’t need to keep moving my hand between the mouse and keyboard.
 
