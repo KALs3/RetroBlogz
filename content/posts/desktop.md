@@ -1,6 +1,8 @@
 ---
 title: "My desktop environment"
 date: 2025-01-21T14:24:08+02:00
+tags: ["Tech", "Linux",]
+
 ---
 **2 Years Ago: My Setup**  
 ![linux?](/images/linux.jpg)
